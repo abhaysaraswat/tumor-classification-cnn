@@ -99,10 +99,10 @@ To run this project locally:
 ---
 
 ## Requirements
-Python 3.x
-TensorFlow
-Keras
-NumPy
+Python 3.x,
+TensorFlow,
+Keras,
+NumPy,
 Matplotlib
 
 ---
