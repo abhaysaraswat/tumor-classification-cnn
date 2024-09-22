@@ -55,6 +55,14 @@ The CNN model architecture is as follows:
 
 ## Training the Model
 
+The model was trained for 15 epochs and these are the loss & accuracy plots:
+
+![image](https://github.com/user-attachments/assets/6065f4c1-49ed-42d5-af34-1ce9bc36ff58)
+
+![image](https://github.com/user-attachments/assets/5d985339-b25b-4094-9b29-f82f949ace9c)
+
+
+
 The model was trained for **15 epochs** using an **Adam optimizer** with a learning rate of **0.001**. Below are the training statistics:
 
 | Epoch | Training Accuracy | Training Loss | Validation Accuracy | Validation Loss |
