@@ -17,8 +17,8 @@ This project builds a **Convolutional Neural Network (CNN)** in **TensorFlow & K
 ## About the Data
 
 The dataset used for training consists of MRI brain images and is publicly available on Kaggle. It contains **two folders**:
-- **yes/**: 155 images labeled as tumor-positive.
-- **no/**: 98 images labeled as tumor-negative.
+- **yes/**: 155 images labeled as tumor.
+- **no/**: 98 images labeled as notumor.
 
 You can download the dataset from [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). The original dataset contained **7022 images**
 
@@ -90,7 +90,7 @@ To run this project locally:
 
 ---
 
-Requirements
+## Requirements
 Python 3.x
 TensorFlow
 Keras
@@ -99,12 +99,12 @@ Matplotlib
 
 ---
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-Contributing
+## Contributing
 Feel free to submit pull requests to enhance the project, fix bugs, or add new features.
 
 ---
