@@ -93,8 +93,6 @@ To run this project locally:
    cd brain-tumor-detector
    pip install -r requirements.txt
    jupyter notebook TumorClassification.ipynb
-   from tensorflow.keras.models import load_model
-   model = load_model('model/tumor_model.keras')
 
 ---
 
